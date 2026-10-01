@@ -227,7 +227,7 @@ YouTube: https://youtu.be/ELWF_vGvlR4?si=s1xqgotikA38bE2w
 
 LinkedIn posts will be added after publication.
 
-- Part 1: [ADD LINKEDIN LINK]
+- Part 1: https://lnkd.in/p/grq_Xcj9
 - Part 2: [ADD LINKEDIN LINK]
 - Part 3: [ADD LINKEDIN LINK]
 
