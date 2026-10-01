@@ -209,17 +209,17 @@ I will continue practicing these AWS services and focus on understanding scenari
 ### Video 1
 **Amazon S3 Storage Classes, Replication & Lifecycle Management**
 
-YouTube: [ADD VIDEO 1 LINK]
+YouTube: https://youtu.be/sj8M8WMFbiQ?si=3wDrBDQvUEZs-sXo
 
 ### Video 2
 **Amazon S3 Event Notifications & Performance Optimization**
 
-YouTube: [ADD VIDEO 2 LINK]
+YouTube: https://youtu.be/DTPTJtdROnc?si=S3eqCtBzddmJYlcW
 
 ### Video 3
 **FSx Deployment Options & Amazon Kinesis**
 
-YouTube: [ADD VIDEO 3 LINK]
+YouTube: https://youtu.be/ELWF_vGvlR4?si=s1xqgotikA38bE2w
 
 ---
 
